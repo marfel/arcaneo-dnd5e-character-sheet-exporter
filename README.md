@@ -38,7 +38,7 @@ Spells and abilities organized for quick reference:
 
 | Component | Version |
 |-----------|--------|
-| Foundry VTT | v13 |
+| Foundry VTT | v14 |
 | D&D 5e System | 5.x |
 
 ---
